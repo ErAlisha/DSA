@@ -4,6 +4,10 @@
 #include<iostream>
 using namespace std;
 
+void bubbleSort(){
+
+}
+
 int main(){
 cout<<"Learning different Searching and Sorting techniques";
 cout<<endl;
