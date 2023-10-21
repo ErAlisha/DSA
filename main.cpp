@@ -4,8 +4,15 @@
 #include<iostream>
 using namespace std;
 
+
 void bubbleSort(){
 
+}
+
+
+
+void quickSort(){
+      
 }
 
 int main(){
